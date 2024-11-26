@@ -20,6 +20,11 @@ Activate it:
 ```bash
 source ./venv/bin/activate
 ```
+Install requirements:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Install airflow
 
